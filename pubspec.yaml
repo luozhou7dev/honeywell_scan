@@ -2,7 +2,7 @@ name: honeywell_scan
 description: 霍尼韦尔扫描插件
 version: 0.0.1
 author: luozhou <luozhou23dev@gmail.com>
-homepage:
+homepage: https://github.com/luozhou7dev/honeywell_scan
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
